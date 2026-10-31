@@ -1,0 +1,25 @@
+# Beast 3.0 Workflow Automation Division
+
+The Workflow Automation Division serves as the background execution engine of the Beast 3.0 framework, ensuring timed tasks, data syncs, and multi-division pipelines execute seamlessly without manual intervention.
+
+## Mission
+
+Automate routine governance, treasury syncs, audit checks, and telemetry reports through resilient event-driven scheduling.
+
+## Core Responsibilities
+
+- Scheduled Cron Job Management
+- Multi-Division Task Pipeline Orchestration
+- Event-Driven Trigger Routing
+- Failure Recovery & Job Retries
+
+## Connected Systems
+
+- System Orchestrator (`div-21-system-orchestrator`)
+- Judicial & Audit Division (`div-03-judicial`)
+- Treasury & Revenue Division (`beast3-treasury-revenue`)
+- Analytics & Telemetry Division (`beast3-analytics`)
+
+## Status
+
+Development
