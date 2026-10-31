@@ -1,0 +1,25 @@
+beast3-automation/
+│
+├── README.md
+├── LICENSE
+├── .gitignore
+│
+├── docs/
+│   ├── pipeline-spec.md
+│   ├── cron-schedules.md
+│   └── execution-flow.md
+│
+├── src/
+│   ├── core/
+│   │   ├── CronScheduler.ts
+│   │   └── TaskPipeline.ts
+│   │
+│   ├── api/
+│   │   └── automation.ts
+│   │
+│   └── app/
+│       ├── layout.tsx
+│       └── page.tsx
+│
+└── public/
+    └── logo.png
